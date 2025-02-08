@@ -60,7 +60,7 @@ Execute the script and provide the input file when prompted:
 ```bash
 python ip_collector.py
 ```
-If no input file is provided, it defaults to `ips.txt`.
+If no input file is provided, it defaults to `ips.txt` which is a sample of random ips.
 
 ### **3. View logs and reports**
 - **Logs**: Stored in `logs/{year}/{month_day}/IP_<IP>_YYYY-MM-DD_HH-MM-SS.txt`
