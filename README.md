@@ -21,7 +21,7 @@ The tool generates structured logs for each IP and stores them in a well-organiz
 
 ### **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/threat-intelligence-ip-analyzer.git
+git clone https://github.com/Sh4dowTr4ck3r/threat-intelligence-ip-analyzer.git
 cd threat-intelligence-ip-analyzer
 ```
 
