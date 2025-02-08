@@ -1,7 +1,7 @@
 # Threat Intelligence IP Analyzer
 
 ## Overview
-The **Threat Intelligence IP Analyzer** is a Python-based tool that collects and analyzes IP addresses using various threat intelligence sources, including:
+The **Threat Intelligence IP Analyzer** is a Python-based tool that collects and analyzes IP addresses using various threat intelligence sources through their API's, including:
 - **AbuseIPDB** (for malicious IP reports)
 - **VirusTotal** (for malware detections)
 - **Shodan** (for open ports and ISP details)
